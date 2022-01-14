@@ -1,0 +1,38 @@
+
+Software testing theory
+
+Bug reports
+  
+Client-server architecture
+
+HTTP-methods
+
+JSON
+
+XML
+
+Postman
+
+Charles
+
+Fiddler
+
+DevTools
+
+VPN
+
+Mobile testing
+
+Xcode
+
+Android Studio
+
+Linux terminal
+
+GIT
+
+SQL
+
+Jmeter
+
+Python

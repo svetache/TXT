@@ -1,0 +1,9 @@
+movie: Love actually
+
+tv series: Friends
+
+food: carrot cake
+
+season: summer
+
+country: Portugal
