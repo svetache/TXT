@@ -1,1 +1,23 @@
+id: 367
 
+date: 2022-01-14T10:57:00
+
+description:
+
+STR
+1.Log in under UserA. 
+2. Select the user info tab. 
+3. Edit user name. 
+4. Click Save button.
+5. Navigate to the Undo button.
+
+ACT
+The Undo button is disabled after clicking the Save button.
+
+EXP
+The Undo button is activated after clicking the Save button.
+
+assignee: Elon Musk
+reporter: Svetlana Chenchikova
+severity: minor
+priority: medium
