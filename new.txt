@@ -1,0 +1,10 @@
+name: Svetlana
+surname: Chenchikova
+age: 35
+
+pet type: cat
+pet name: Charlie
+pet age: 11
+
+profession: QA Engineer
+salary: 1000
